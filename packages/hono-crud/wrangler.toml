@@ -1,0 +1,6 @@
+name = "croak-crud"
+compatibility_date = "2023-01-01"
+node_compat = true
+account_id = "5ac5081163a705fd39c6647be55dcfce"
+workers_dev = false
+main = 'src/worker.ts'
